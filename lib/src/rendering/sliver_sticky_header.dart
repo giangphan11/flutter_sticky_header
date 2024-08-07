@@ -3,7 +3,8 @@ import 'dart:math' as math;
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'package:flutter_sticky_header/flutter_sticky_header.dart';
-import 'package:value_layout_builder/value_layout_builder.dart';
+
+import '../../value_layout_builder/src/value_layout_builder.dart';
 
 /// A sliver with a [RenderBox] as header and a [RenderSliver] as child.
 ///
